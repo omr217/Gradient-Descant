@@ -6,9 +6,6 @@ import matplotlib.pyplot as plt
 pipe_lenght = np.array([100, 150, 200, 250, 300])
 pipe_cost = np.array([156, 167, 276, 283, 295])
 
-# Modeling these datas as energy function
-
-
 plt.plot(pipe_lenght,pipe_cost)
 
 # model function H(x) = theta_0 + theta_1 * x
