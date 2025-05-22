@@ -15,8 +15,8 @@ Given a dataset with pipe lengths and their corresponding costs, this script fin
 - Python
 - NumPy
 - Matplotlib
--
 
+-
 
 #### 📝 Notes
 You can modify the dataset or learning rate to observe different convergence behaviors.
